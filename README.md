@@ -21,7 +21,7 @@ I'm [Ram Mijar](https://www.rammijar.com.np/), a passionate student based in Nep
 
 
 ## Reach me at 📬
-[![Email](https://img.shields.io/badge/-📬%20Email-%230077B5?style=flat&logo=gmail&logoColor=white)](mailto:admin@rammijar.com.np)
+[![Email](https://img.shields.io/badge/-📬%20Email-%230077B5?style=flat&logo=gmail&logoColor=white)](mailto:romankc652@gmail.com)
 
 
 
